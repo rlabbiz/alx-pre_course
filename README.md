@@ -1,1 +1,1 @@
-my first repo (updated)
+my first repo
